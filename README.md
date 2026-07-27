@@ -41,7 +41,7 @@ This repository moves beyond surface-level statistics to evaluate **commute-hour
 
 ##  Interactive Geospatial Map
 
-The project generates a stand-alone **Folium HeatMap & Cluster Dashboard** (`outputs/calgary_traffic_density_map.html`). 
+The project generates a stand-alone **Folium HeatMap & Cluster Interactive Dashboard** (`outputs/calgary_traffic_density_map.html`). 
 
 ### Features:
 * **Calibrated Spatial Density Heatmap:** Displays density gradients without oversaturating urban corridors.
